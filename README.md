@@ -1,8 +1,10 @@
-# Python爬取37000+四字成语 BeautifulSoup+requests+多线程
+# Python爬取37000+四字成语
+                  ————BeautifulSoup+requests+多线程
 
 博客地址：https://blog.csdn.net/Xylon_/article/details/99288764
 
 爬取结果展示：
+
 ![image](https://github.com/xylon666/idiom/blob/master/Image/1.png)
 
 所需环境
