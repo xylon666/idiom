@@ -1,5 +1,5 @@
 # Python爬取37000+四字成语
-                  ————BeautifulSoup+requests+多线程
+BeautifulSoup+requests+多线程
 
 博客地址：https://blog.csdn.net/Xylon_/article/details/99288764
 
