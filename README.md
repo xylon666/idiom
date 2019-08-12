@@ -1,2 +1,2 @@
-# idiom
-Python爬虫 下载37000+四字成语
+# Python实战 | 爬取37000+四字成语 BeautifulSoup+requests+多线程
+
